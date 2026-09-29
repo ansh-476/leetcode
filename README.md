@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ansh-476/leetcode/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ansh-476/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ansh-476/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ansh-476/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ansh-476/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
