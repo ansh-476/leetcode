@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ansh-476/leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ansh-476/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ansh-476/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ansh-476/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ansh-476/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ansh-476/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
