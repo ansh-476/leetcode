@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ansh-476/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ansh-476/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ansh-476/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ansh-476/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -18,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ansh-476/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ansh-476/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
@@ -47,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ansh-476/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
