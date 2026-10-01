@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ansh-476/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ansh-476/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ansh-476/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ansh-476/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ansh-476/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ansh-476/leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ansh-476/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
